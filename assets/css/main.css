@@ -2107,7 +2107,6 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
 		text-decoration: none;
 	}
 
@@ -2120,11 +2119,17 @@
 				color: inherit;
 			}
 
-	strong, b {
+	b {
 		color: #3d4449;
 		font-weight: 600;
 	}
 
+	strong {
+		color: #2EAE69;
+		font-weight: 600;
+		font-size: 14pt;
+	}
+	
 	em, i {
 		font-style: italic;
 	}
