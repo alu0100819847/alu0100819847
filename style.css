@@ -1,0 +1,79 @@
+body{
+  background-color: #9cddf159;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.al{
+  min-height: 100vh;
+}
+
+.personal{
+  border-right: 2px solid;
+  border-color: #adaaaa45;
+  background-color: #8475758c;
+  box-shadow: 0 0 20px #8475758c;
+}
+.personalImage{
+  margin-top: 60px;
+  height: 180px;
+  width: 120px;
+  border: 1px solid;
+  border-color: #adaaaa45;
+  background-color: white;
+}
+
+.information{
+  margin: 20px;
+  font-size: 0.8em;
+}
+
+.input{
+  background-color: #8475758c;
+  margin: 20px;
+  box-shadow: 0 0 20px #8475758c;
+}
+
+.namebox{
+  margin-left: 1em;
+}
+
+.nombre{
+
+}
+
+.title{
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: white;
+}
+
+.subtitle{
+  font-size: 0.95em;
+  font-weight: bold;
+}
+
+.fecha{
+  font-size: 12px;
+  margin-left: 3em;
+}
+
+.data{
+  font-size: 0.8em;
+}
+
+.infoList{
+  font-size: 0.8em;
+}
+
+.subnamebox{
+  margin-bottom: 1em;
+}
